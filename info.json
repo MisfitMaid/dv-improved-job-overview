@@ -1,9 +1,10 @@
 {
-	"Id": "MOD_NAME",
-	"Version": "1.0.0",
-	"DisplayName": "MOD_NAME",
-	"Author": "MOD_AUTHOR",
-	"EntryMethod": "MOD_NAME.Main.Load",
+	"Id": "dv-improved-job-overview",
+	"Version": "0.1.0",
+	"DisplayName": "Improved Job Overview",
+	"Author": "MisfitMaid",
+	"EntryMethod": "ImprovedJobOverview.ImprovedJobOverview.Load",
 	"ManagerVersion": "0.27.3",
-	"Repository": "https://raw.githubusercontent.com/OWNER/REPOSITORY/blob/main/repository.json"
+	"AssemblyName": "ImprovedJobOverview.dll",
+	"Repository": "https://github.com/MisfitMaid/dv-improved-job-overview/blob/mistress/repository.json"
 }
