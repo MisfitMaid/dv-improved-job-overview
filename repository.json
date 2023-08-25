@@ -4,6 +4,11 @@
 			"Id": "MisfitMaid/ImprovedJobOverview",
 			"Version": "0.1",
 			"DownloadUrl": "https://github.com/MisfitMaid/dv-improved-job-overview/releases/download/v0.1/ImprovedJobOverview.zip"
+		},
+		{
+			"Id": "MisfitMaid/ImprovedJobOverview",
+			"Version": "0.1.1",
+			"DownloadUrl": "https://github.com/MisfitMaid/dv-improved-job-overview/releases/download/v0.1.1/ImprovedJobOverview.zip"
 		}
 	]
 }

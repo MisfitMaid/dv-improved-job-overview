@@ -1,6 +1,6 @@
 {
 	"Id": "dv-improved-job-overview",
-	"Version": "0.1.0",
+	"Version": "0.1.1",
 	"DisplayName": "Improved Job Overview",
 	"Author": "MisfitMaid",
 	"EntryMethod": "ImprovedJobOverview.ImprovedJobOverview.Load",
